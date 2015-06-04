@@ -40,7 +40,7 @@ dm-4              0.00     0.00    0.00    0.00     0.01     0.02     8.08     0
 ```
 
 ## systat
-Network interface throughput
+Network interface throughput, TCP statistics etc.
 ```
 > systat -ifstat
 ```
