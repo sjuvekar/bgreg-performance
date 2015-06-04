@@ -1,6 +1,7 @@
 # bgreg-performance
 A cheat-sheet of performance-related tools by Brendan Gregg
 
+Check this out: http://www.slideshare.net/brendangregg/meetbsd2014-performance-analysis
 ## uptime
 ```
 > uptime
