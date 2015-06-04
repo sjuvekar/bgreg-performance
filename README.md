@@ -46,3 +46,6 @@ Network interface throughput, TCP statistics etc.
 ```
 ## dtrace
 Instrument any software running on the system
+```
+> dtrace -ln 'fbt:::entry'
+```
