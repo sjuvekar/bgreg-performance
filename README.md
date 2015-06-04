@@ -8,3 +8,7 @@ A cheat-sheet of performance-related tools by Brendan Gregg
 ```
 
 Primitive, don't spend a lot of time on these.
+
+## top/htop
+Simple, can also give weighted CPU load averages
+
