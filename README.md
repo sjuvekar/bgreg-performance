@@ -44,3 +44,5 @@ Network interface throughput, TCP statistics etc.
 ```
 > systat -ifstat
 ```
+## dtrace
+Instrument any software running on the system
