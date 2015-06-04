@@ -2,6 +2,9 @@
 A cheat-sheet of performance-related tools by Brendan Gregg
 
 Check this out: http://www.slideshare.net/brendangregg/meetbsd2014-performance-analysis
+
+And this: http://www.brendangregg.com/USEmethod/use-rosetta.html
+
 ## uptime
 ```
 > uptime
